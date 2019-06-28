@@ -1,0 +1,21 @@
+{
+  "name": "sockeio-chat-app",
+  "version": "1.0.0",
+  "description": "First socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socketio",
+    "node",
+    "js"
+  ],
+  "author": "Bekto Dedic",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "now": "^15.6.1",
+    "socket.io": "^2.2.0"
+  }
+}
